@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Stefanos</h1>
-<h3 align="center">A passionate informatics graduate, currently pursuing a master's degree in "Digital Media - Computational Intelligence," with a strong grasp of fundamentals in Machine Learning, Computer Vision, and Computer Graphics. I'm proficient with Python and the related Machine Learning frameworks, as well as with game engines.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
