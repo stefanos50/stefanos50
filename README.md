@@ -2,8 +2,8 @@
 <h4 align="center">A passionate informatics graduate, currently pursuing a master's degree in "Digital Media - Computational Intelligence," with a strong interest in Machine Learning, Computer Vision, and Computer Graphics.</h4>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/stefanos-pasios-749921237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanos-pasios-749921237" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCfc2qHsRRTEfp1cx4Jb6NoQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thegamecoach1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stefanos-pasios-749921237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanos-pasios-749921237" height="20" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCfc2qHsRRTEfp1cx4Jb6NoQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thegamecoach1" height="20" width="30" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
