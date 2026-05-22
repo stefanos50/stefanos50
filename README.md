@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Stefanos</h2>
-<h4 align="center">A passionate informatics graduate, currently pursuing a master's degree in "Digital Media - Computational Intelligence," with a strong interest in Machine Learning, Computer Vision, and Computer Graphics. If you want to learn more about me, visit my <a href="https://stefanos50.github.io/" target="_blank" rel="noreferrer"> website.</a></h4>
+<h4 align="center">I’m a Computer Vision Research Associate with a strong foundation in Artificial Intelligence and Deep Learning. I work primarily with Python and PyTorch, focusing on Computer Vision and machine learning–driven solutions. I’m passionate about bridging research and real-world applications by developing practical, innovative AI systems.</h4>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/stefanos-pasios-749921237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanos-pasios-749921237" height="20" width="30" /></a>
